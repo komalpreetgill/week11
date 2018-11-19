@@ -1,0 +1,43 @@
+* {
+    margin: 0;
+    padding: 0;
+}
+div.menu{
+    text-align: center;
+background-color: white;
+
+}
+body{
+    background-color: black;
+    overflow:scroll;
+    height:1000px;
+} 
+
+.intro{
+    background-color: black;
+    color: white;
+    text-align: center;
+    border: dotted;
+    border-color:blue;
+    margin:auto;
+    margin-top: 100px;
+    padding: 40px;
+    width:500px;
+
+}
+
+.middle-box{
+    color:white;
+    padding:25px; 
+    margin:auto;
+    background-color:green;
+    text-align: center;
+    margin-top: 70px;
+    width:150px;
+
+}
+.full-box{
+    margin-top:100px;
+    background-color:red;
+   height:200px;
+}
